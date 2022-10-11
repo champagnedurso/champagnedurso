@@ -44,4 +44,4 @@
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=champagnedurso&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=champagnedurso&theme=gotham&border_radius=5&locale=ru&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
