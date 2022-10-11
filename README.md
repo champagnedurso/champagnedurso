@@ -17,7 +17,7 @@
 
 <div id="heythere" align="center">
   <h1>
-  Саламус <a href="https://www.youtube.com/channel/UCn560_WMVPut0V5nv-K2jYA" target="_blank">durso</a> 
+  Саламус <a href="https://www.youtube.com/channel/UCn560_WMVPut0V5nv-K2jYA" target="_blank">yungdurso</a> 
   <img src="https://media.giphy.com/media/Mq3dsogD2x2DKsI6N0/giphy.gif" width="30px"/>
 </h1>
 </div>
