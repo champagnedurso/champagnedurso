@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/kDf0eEXhOhlZgdp2dy/giphy.gif" width="600" height="300"/>
 </div>
 
-### :vampire: About Me : Im a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+### :vampire: About Me : [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Young+IT+speialist)](https://git.io/typing-svg)
 
 - :couplekiss_man_man: faggots
 
