@@ -28,8 +28,8 @@
 
 ### :vampire: About Me : Im a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
 
-- :niger: nigger
+- :central_african_republic: nigger
 
 - :couplekiss_man_man: faggots
 
-- :pig2: ukranian pigles
+- :pig2: ukranian peoples
