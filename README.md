@@ -9,3 +9,6 @@
     <img src="https://shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>  
 </div>
+<div id="viewprof" align="center">
+  <img src="https://komarev.com/ghpvc/?username= champagnedurso&style=flat-square&color=blue" alt=""/>
+</div>
