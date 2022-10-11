@@ -26,4 +26,4 @@
   <img src="https://media.giphy.com/media/kDf0eEXhOhlZgdp2dy/giphy.gif" width="600" height="300"/>
 </div>
 
-### :vampire: About Me : 
+### :vampire: About Me : Im a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
