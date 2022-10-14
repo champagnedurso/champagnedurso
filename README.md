@@ -46,4 +46,4 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=champagnedurso&theme=gotham&border_radius=5&locale=ru&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rompersStomper)](https://github.com/rompersStomper/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=champagnedurso)](https://github.com/champagnedurso/github-readme-stats)
